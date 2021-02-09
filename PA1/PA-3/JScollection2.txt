@@ -1,0 +1,10 @@
+white medium
+grey large
+black medium
+blue small
+white small
+grey medium
+blue medium
+black small
+grey small
+blue large
