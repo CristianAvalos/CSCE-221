@@ -1,0 +1,21 @@
+- Cristian Avalos
+- 627003137
+- Section 501
+- avalos672918
+- avalos672918@tamu.edu
+- I certify that I have listed all the sources that I used to develop the solutions and code to the
+submitted work.
+On my honor as an Aggie, I have neither given nor received any unauthorized help
+on this academic work.
+Name: Cristian Avalos  Date: 1/18/2020
+
+Resources Utilizes:
+	https://www.youtube.com/watch?v=x55jfOd5PEE
+	https://en.cppreference.com/w/cpp/language/enum
+	https://www.youtube.com/results?search_query=overload+operator+c%2B%2B
+	
+- There are no known problems in my program, to my knowledge.
+- My program creates a stress ball using a random size and color. It then compares it to the stress ball that is
+given in the stress_ball_test.cpp
+- I ran the program multiple times to ensure that it ran correctly without mistakes using the provided test file. 
+I did not use any exceptions for error handling.
