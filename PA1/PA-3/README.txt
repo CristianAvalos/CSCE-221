@@ -1,16 +1,4 @@
-- Cristian Avalos
-- 627003137
-- Section 501
-- avalos672918
-- avalos672918@tamu.edu
-- I certify that I have listed all the sources that I used to develop the solutions and code to the
-submitted work.
-On my honor as an Aggie, I have neither given nor received any unauthorized help
-on this academic work.
 Name: Cristian Avalos  Date: 02/16/2020
-
-Resources Utilizes:
-    - cplusplus.com/doc/oldtutorial/templates/
 
 - There are no known problems with my code.
 - My code begins with allowing the user to select which type of version that they will like to test.
