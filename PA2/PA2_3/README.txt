@@ -1,13 +1,3 @@
-- Cristian Avalos
-- UIN: 627003137
-- Section 501
-- avalos672918
-- avalos672918@tamu.edu
-
-I certify that I have listed all the sources that I used to develop the solutions and code to the
-submitted work.
-On my honor as an Aggie, I have neither given nor received any unauthorized help
-on this academic work.
 Cristian Avalos         03/05/2020
 
 - My min function for some reason only works for some test cases. I am not sure if it is a problem with 
